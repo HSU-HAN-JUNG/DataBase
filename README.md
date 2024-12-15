@@ -8,7 +8,7 @@
 <p>Video_Join：https://youtu.be/nOhhFJosrtg</p>
 
 <h1>HW3</h1>
-<p>Video：</p>
+<p>Video：https://youtu.be/AEWFLNtUiKk</p>
 
 <h1>HW4</h1>
-<p>Video：https://youtu.be/AEWFLNtUiKk</p>
+<p>Video：</p>
