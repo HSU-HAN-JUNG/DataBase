@@ -4,7 +4,8 @@
 
 <h1>HW2</h1>
 <p>ER Diagram：https://reurl.cc/DKAx4E</p>
-<p>Video：</p>
+<p>Video_CRUD：https://youtu.be/gB7GjNOtHpY</p>
+<p>Video_Join：https://youtu.be/nOhhFJosrtg</p>
 
 <h1>HW3</h1>
 <p>Video：</p>
