@@ -1,8 +1,19 @@
 # app.py
 from flask import Flask, redirect, url_for
 from join import join_blueprint
+from create import create_bp
+from read import read_bp
+from delete import delete_bp
+from update import update_bp
+
 
 app = Flask(__name__)
+
+app.register_blueprint(create_bp)
+app.register_blueprint(update_bp)
+app.register_blueprint(delete_bp)
+app.register_blueprint(read_bp)
+
 
 # 註冊 join.py 中的 Blueprint
 app.register_blueprint(join_blueprint, url_prefix='/books')
